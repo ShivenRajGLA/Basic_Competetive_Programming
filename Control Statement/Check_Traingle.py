@@ -5,5 +5,5 @@ sum=first_angle+second_angle+third_angle
 if(sum==180):
     print("It is valid triangle ")
 else:
-    print("It is not a valid Number ")
+    print("It is not a valid Triangle ")
     
